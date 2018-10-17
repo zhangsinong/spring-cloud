@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 @RestController
 public class MovieController {
 
-    @Autowired
+       @Autowired
     private RestTemplate restTemplate;
 
     @Value("${user.userServicePath}")
