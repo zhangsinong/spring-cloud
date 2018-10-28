@@ -10,6 +10,7 @@
 
 	<modules>
 		<module>consumer-movie</module>
+		<module>consumer-movie-ribbon</module>
 		<module>provider-user</module>
 		<module>spring-eureka</module>
 	</modules>
